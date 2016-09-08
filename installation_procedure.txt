@@ -1,0 +1,13 @@
+GENERAL INFORMATION
+This mod is intended for Gary Grigsby's War in the East, patch 1.08.08. The installer will overwrite existing War in the East imagery. The original game images are included as a ZIP file. Both the new imagery as well as the backup ZIP file will be installed in the dat\art subdirectory.
+
+INSTALLATION PROCEDURE
+Select your War in the East game directory, either your 'SteamApps\common\Gary Grigsby's War in the East' subdirectory (for Steam users) or your own game directory. The installer will install all imagery in the corresponding subfolders. The game has to be restarted in order to have effect.
+
+SUPPORT
+Please report any potential and real issues you encounter on the forum.
+
+Thank you for your attention,
+
+The CORE Development Team
+2016-09-05
